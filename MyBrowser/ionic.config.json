@@ -1,0 +1,8 @@
+{
+  "name": "MyBrowser",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "c6d40674"
+}
